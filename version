@@ -1,1 +1,6 @@
+<1.1>
+* Fixed getGroup framework vorp.
+* Fixed SQL warning in the vorp framework when creating a character.
+
+* Read Discord for more infos.
 <1.0>
